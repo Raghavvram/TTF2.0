@@ -1,0 +1,55 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#121212"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="16dp"
+        android:text="Encoder"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/inputText"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="Enter text to encode"
+        android:padding="12dp"
+        android:background="@drawable/rounded_edittext"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        android:textColorHint="#BB86FC"
+        android:layout_marginBottom="24dp" />
+
+    <Button
+        android:id="@+id/btnTransmit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Transmit"
+        android:padding="12dp"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#6200EE"
+        android:textSize="18sp"
+        android:background="@drawable/rounded_button" />
+
+    <Button
+        android:id="@+id/btnStop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Stop"
+        android:padding="12dp"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#B00020"
+        android:textSize="18sp"
+        android:background="@drawable/rounded_button"
+        android:layout_marginTop="16dp" />
+</LinearLayout>
