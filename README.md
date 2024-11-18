@@ -139,7 +139,6 @@ private int calculateParity(String binaryString) {
 - **`calculateParity`**:
   - Calculates a parity bit based on the binary string, ensuring an even number of `1`s.
 
----
 
 ### **5. Transmitting the Binary String**
 ```java
