@@ -203,7 +203,6 @@ private void flashLightOff() {
 - **`flashLightOff`**: Turns the flashlight off.
 - Handles potential exceptions to ensure app stability.
 
----
 
 ### **7. Permissions Result**
 ```java
