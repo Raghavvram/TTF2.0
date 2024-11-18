@@ -174,7 +174,6 @@ private void transmitBinaryString(String binaryString) {
 - **Timing**:
   - Delays 100ms between each bit for readability.
 
----
 
 ### **6. Flashlight Control**
 ```java
