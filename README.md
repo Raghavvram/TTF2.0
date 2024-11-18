@@ -53,7 +53,6 @@ public class MainActivity extends AppCompatActivity {
   - `cameraId`: Stores the ID of the device's camera.
   - `stopTransmission`: A flag to control message transmission.
 
----
 
 ### **3. `onCreate()` Method**
 ```java
