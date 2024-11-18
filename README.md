@@ -30,7 +30,6 @@ import androidx.core.content.ContextCompat;
   - Permission handling (`Manifest`, `ActivityCompat`, `ContextCompat`).
   - Multithreading (`Handler`, `Looper`).
 
----
 
 ### **2. Class and Variables**
 ```java
