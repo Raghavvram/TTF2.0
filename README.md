@@ -108,7 +108,6 @@ protected void onCreate(Bundle savedInstanceState) {
   - **Stop Button (`btnStop`)**:
     - Sets the `stopTransmission` flag to halt transmission.
 
----
 
 ### **4. Text-to-Binary Conversion**
 ```java
